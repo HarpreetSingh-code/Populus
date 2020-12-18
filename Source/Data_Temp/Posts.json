@@ -1,0 +1,46 @@
+[
+    {
+        "key": 1,
+        "UserName": "Naveen Kumar",
+        "UserImage": "https://www.citrix.com/blogs/wp-content/uploads/2018/03/slack_compressed-e1521621363404-360x360.jpg",
+        "PostDate": "12/03/2020",
+        "PostTime": "11:00 AM",
+        "PostImage": "https://cdn.fstoppers.com/wp-content/uploads/2014/05/john-schell-lifestyle-mens-fashion-chris-visionla-710x468.jpg",
+        "Post": "Status allows you to share text, photo, video and GIF updates that disappear after 24 hours. In order to send and receive status updates to and from your contacts, you and your contacts must have each other’s phone numbers saved in your phones’ address books",
+        "Likes": 32,
+        "Dislikes": 12
+    },
+    {
+        "key": 2,
+        "UserName": "Sunil Singh",
+        "UserImage": "https://likewise-stage.azureedge.net/uploads/3eb6cf23-895b-45e9-b92c-5fb1b457dd04/bill-gates-profile-pic.jpg",
+        "PostDate": "09/03/2020",
+        "PostTime": "10:00 AM",
+        "PostImage": "https://format-com-cld-res.cloudinary.com/image/private/s--JwQGIULQ--/c_limit,g_center,h_65535,w_550/fl_keep_iptc.progressive,q_95/v1/73dda2f6a8201a116b7d90fd9b3b82df/male_fashion_portrait_of_Chad_Kuzyk_at_PRM_for_model_book.jpg",
+        "Post": "Status allows you to share text, photo, video and GIF updates that disappear after 24 hours. In order to send and receive status updates to and from your contacts, you and your contacts must have each other’s phone numbers saved in your phones’ address books",
+        "Likes": 51,
+        "Dislikes": 11
+    },
+    {
+        "key": 3,
+        "UserName": "Ranjan Verma",
+        "UserImage": "https://i.imgur.com/JFHjdNr.jpg",
+        "PostDate": "05/03/2020",
+        "PostTime": "09:00 AM",
+        "PostImage": "https://i.ytimg.com/vi/d4y_f_3vf9k/maxresdefault.jpg",
+        "Post": "Status allows you to share text, photo, video and GIF updates that disappear after 24 hours. In order to send and receive status updates to and from your contacts, you and your contacts must have each other’s phone numbers saved in your phones’ address books",
+        "Likes": 35,
+        "Dislikes": 14
+    },
+    {
+        "key": 4,
+        "UserName": "Harshita Kaur",
+        "UserImage": "https://pixinvent.com/materialize-material-design-admin-template/app-assets/images/user/12.jpg",
+        "PostDate": "02/03/2020",
+        "PostTime": "08:00 AM",
+        "PostImage": "https://blogsmedia.lse.ac.uk/blogs.dir/99/files/2020/04/coronavirus-demographics.jpg",
+        "Post": "Status allows you to share text, photo, video and GIF updates that disappear after 24 hours. In order to send and receive status updates to and from your contacts, you and your contacts must have each other’s phone numbers saved in your phones’ address books",
+        "Likes": 44,
+        "Dislikes": 8
+    }
+]
